@@ -1,0 +1,11 @@
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Entities\bin\Debug\net5.0\GorestApp.Entities.deps.json
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Entities\bin\Debug\net5.0\GorestApp.Entities.dll
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Entities\bin\Debug\net5.0\ref\GorestApp.Entities.dll
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Entities\bin\Debug\net5.0\GorestApp.Entities.pdb
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Entities\obj\Debug\net5.0\GorestApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Entities\obj\Debug\net5.0\GorestApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Entities\obj\Debug\net5.0\GorestApp.Entities.AssemblyInfo.cs
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Entities\obj\Debug\net5.0\GorestApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Entities\obj\Debug\net5.0\GorestApp.Entities.dll
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Entities\obj\Debug\net5.0\ref\GorestApp.Entities.dll
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Entities\obj\Debug\net5.0\GorestApp.Entities.pdb

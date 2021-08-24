@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="RestSharp" Version="106.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GorestApp.Core\GorestApp.Core.csproj" />
+    <ProjectReference Include="..\GorestApp.DataAccess\GorestApp.DataAccess.csproj" />
+    <ProjectReference Include="..\GorestApp.Entities\GorestApp.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

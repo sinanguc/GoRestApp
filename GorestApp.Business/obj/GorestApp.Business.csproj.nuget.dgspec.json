@@ -1,0 +1,315 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Business\\GorestApp.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Business\\GorestApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Business\\GorestApp.Business.csproj",
+        "projectName": "GorestApp.Business",
+        "projectPath": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Business\\GorestApp.Business.csproj",
+        "packagesPath": "C:\\Users\\Sinan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sinan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Core\\GorestApp.Core.csproj": {
+                "projectPath": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Core\\GorestApp.Core.csproj"
+              },
+              "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.DataAccess\\GorestApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.DataAccess\\GorestApp.DataAccess.csproj"
+              },
+              "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Entities\\GorestApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Entities\\GorestApp.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Core\\GorestApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Core\\GorestApp.Core.csproj",
+        "projectName": "GorestApp.Core",
+        "projectPath": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Core\\GorestApp.Core.csproj",
+        "packagesPath": "C:\\Users\\Sinan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sinan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.DataAccess\\GorestApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.DataAccess\\GorestApp.DataAccess.csproj",
+        "projectName": "GorestApp.DataAccess",
+        "projectPath": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.DataAccess\\GorestApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Sinan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sinan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Core\\GorestApp.Core.csproj": {
+                "projectPath": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Core\\GorestApp.Core.csproj"
+              },
+              "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Entities\\GorestApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Entities\\GorestApp.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Entities\\GorestApp.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Entities\\GorestApp.Entities.csproj",
+        "projectName": "GorestApp.Entities",
+        "projectPath": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Entities\\GorestApp.Entities.csproj",
+        "packagesPath": "C:\\Users\\Sinan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sinan\\source\\repos\\GorestApp\\GorestApp.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sinan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

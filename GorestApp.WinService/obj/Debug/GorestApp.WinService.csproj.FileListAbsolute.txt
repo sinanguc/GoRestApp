@@ -1,0 +1,10 @@
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.WinService\bin\Debug\GorestApp.WinService.exe.config
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.WinService\bin\Debug\GorestApp.WinService.exe
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.WinService\bin\Debug\GorestApp.WinService.pdb
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.WinService\obj\Debug\GorestApp.WinService.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.WinService\obj\Debug\GorestApp.WinService.exe
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.WinService\obj\Debug\GorestApp.WinService.pdb
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.WinService\bin\Debug\RestSharp.dll
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.WinService\bin\Debug\RestSharp.xml
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.WinService\obj\Debug\GorestApp.WinService.csproj.CopyComplete
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.WinService\obj\Debug\GorestApp.WinService.csprojAssemblyReference.cache

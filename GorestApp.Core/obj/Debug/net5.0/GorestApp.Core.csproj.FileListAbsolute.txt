@@ -1,0 +1,12 @@
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Core\bin\Debug\net5.0\GorestApp.Core.deps.json
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Core\bin\Debug\net5.0\GorestApp.Core.dll
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Core\bin\Debug\net5.0\ref\GorestApp.Core.dll
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Core\bin\Debug\net5.0\GorestApp.Core.pdb
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Core\obj\Debug\net5.0\GorestApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Core\obj\Debug\net5.0\GorestApp.Core.AssemblyInfoInputs.cache
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Core\obj\Debug\net5.0\GorestApp.Core.AssemblyInfo.cs
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Core\obj\Debug\net5.0\GorestApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Core\obj\Debug\net5.0\GorestApp.Core.dll
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Core\obj\Debug\net5.0\ref\GorestApp.Core.dll
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Core\obj\Debug\net5.0\GorestApp.Core.pdb
+C:\Users\Sinan\source\repos\GorestApp\GorestApp.Core\obj\Debug\net5.0\GorestApp.Core.csprojAssemblyReference.cache
